@@ -1,0 +1,30 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+    margin: 0; padding: 0;
+    text-align: center;
+    font-family: Noto Sans, sans-serif;
+    font-size: 1rem;
+}
+
+.container { margin: 0 auto; width: 80%; max-width: 1128px; }
+
+header {
+    background-color: #b0cccf;
+    color: #fff;
+    padding: 3em 0;
+}
+
+header h1 {
+    
+    font-size: 2.1rem;
+}
+
+.know-more {
+    border: 1px solid #fff;
+    text-decoration: none;
+    color: white;
+    font-size: 0.8rem;
+    padding: 1em;
+    margin-top: 1em;
+}
