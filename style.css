@@ -26,5 +26,8 @@ header h1 {
     color: white;
     font-size: 0.8rem;
     padding: 1em;
-    margin-top: 1em;
+}
+
+.know-more:hover {
+    background-color: #ccc3;
 }
